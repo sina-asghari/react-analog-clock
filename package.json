@@ -1,6 +1,6 @@
 {
   "name": "@sinaasghari/react-analog-clock",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A customizable analog clock component for React with timezone support and responsive scaling.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -50,7 +50,7 @@
     "rollup": "^4.46.2",
     "rollup-plugin-postcss": "^4.0.2"
   },
-  "homepage": "https://github.com/sina-asghari/react-analog-clock",
+  "homepage": "https://github.com/sina-asghari",
   "bugs": {
     "url": "https://github.com/sina-asghari/react-analog-clock/issues"
   }
