@@ -50,7 +50,7 @@
     "rollup": "^4.46.2",
     "rollup-plugin-postcss": "^4.0.2"
   },
-  "homepage": "https://www.npmjs.com/package/@sinaasghari/react-analog-clock",
+  "homepage": "https://github.com/sina-asghari/react-analog-clock",
   "bugs": {
     "url": "https://github.com/sina-asghari/react-analog-clock/issues"
   }
