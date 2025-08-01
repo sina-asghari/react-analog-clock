@@ -92,3 +92,12 @@ For Iran (UTC+3:30), pass `timezoneOffset={210}`.
 ## 📃 License
 
 MIT © [Sina Asghari](https://github.com/sinaasghari)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out:
+
+- 📸 Instagram: [@drsinaasghari](https://instagram.com/drsinaasghari)
+- ✈️ Telegram: [@drsinaasghari](https://t.me/drsinaasghari)
