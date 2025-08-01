@@ -1,5 +1,7 @@
 # 🕰️ React Analog Clock
 
+![React Analog Clock Screenshot](./screenshot.png)
+
 **A lightweight, customizable analog clock component for React** — supports dynamic resizing, color themes, timezone offset, and optional hour numbers.
 
 📦 [NPM](https://www.npmjs.com/package/@sinaasghari/react-analog-clock)  
