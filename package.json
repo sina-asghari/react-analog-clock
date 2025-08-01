@@ -1,6 +1,6 @@
 {
   "name": "@sinaasghari/react-analog-clock",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A customizable analog clock component for React with timezone support and responsive scaling.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
